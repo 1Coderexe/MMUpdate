@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-:: OO LAH LAH CHANGEDDDDD:DDDDD
+:: OO LAH LAH CHANGEDDDDD:DDDDD 
 
 :: Define URLs and filenames
 set VERSION_URL=https://raw.githubusercontent.com/1Coderexe/MMUpdate/main/version.txt
