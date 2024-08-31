@@ -47,3 +47,4 @@ if exist current_version.txt del current_version.txt
 if exist %RESTART_FILE% del %RESTART_FILE%
 
 endlocal
+exit
