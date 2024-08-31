@@ -43,7 +43,7 @@ echo Running script version %CURRENT_VERSION%...
 :: Add your main script logic here
 
 :: Clean up
-del current_version.txt
-del %RESTART_FILE%
+if exist current_version.txt del current_version.txt
+if exist %RESTART_FILE% del %RESTART_FILE%
 
 endlocal
