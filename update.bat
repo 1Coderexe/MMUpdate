@@ -4,9 +4,9 @@ setlocal
 :: OO LAH LAH CHANGEDDDDD:DDDDD
 
 :: Define URLs and filenames
-set VERSION_URL=https://raw.githubusercontent.com/username/my-repo/main/version.txt
-set UPDATE_URL=https://raw.githubusercontent.com/username/my-repo/main/update.bat
-set CURRENT_VERSION=0.1
+set VERSION_URL=https://raw.githubusercontent.com/1Coderexe/MMUpdate/main/version.txt
+set UPDATE_URL=https://raw.githubusercontent.com/1Coderexe/MMUpdate/main/update.bat
+set CURRENT_VERSION=1.0.0
 set TEMP_FILE=temp_update.bat
 set SCRIPT_NAME=self_update.bat
 set RESTART_FILE=temp_restart.bat
